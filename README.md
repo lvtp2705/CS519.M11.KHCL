@@ -1,4 +1,4 @@
-# CS519.M11.KHCL
+# CS519.M11.KHCL/PHƯƠNG PHÁP LUẬN NCKH
 ## Giới thiệu bản thân
 Họ và tên : Lê Võ Tiến Phát
 

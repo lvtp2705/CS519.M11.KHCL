@@ -1,4 +1,15 @@
-# CS519.M11.KHCL/PHƯƠNG PHÁP LUẬN NCKH
+## Giới thiệu
+   * Môn học :PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC
+
+   * Mã lớp: CS519.M11.KHCL
+## Giảng viên:
+   * PGS.TS. Lê Đình Duy - duyld@uit.edu.vn
+## Thành viên nhóm:
+| STT | Họ tên | MSSV | 
+| :---: | --- | --- |
+| 1 | Lê Võ Tiến Phát | 19521993 |
+| 2 | Nguyễn Đình Thọ | 19522292 |   
+| 3 | Trần Hồ Thiên Phước | 19522057 | 
 ## Giới thiệu bản thân
 Họ và tên : Lê Võ Tiến Phát
 
